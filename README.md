@@ -1,2 +1,3 @@
 # MoodRot
 MoodRot is a completely unnecessary yet strangely fascinating experiment in AI-powered mood detection and cursor manipulation. Using DeepFace and MediaPipe, it scans your face, figures out your mood (probably incorrectly), and then randomly messes with your cursor’s sensitivity based on how you're feeling.
+To add to its pointlessness, it also pops up randomly generated, borderline nonsensical messages at intervals you can control—because who doesn’t want their computer roasting them while they work? With an overkill CustomTkinter UI, a live webcam feed, and settings you’ll probably never touch, MoodSense is here to remind you that just because you can build something doesn’t mean you should. But hey, at least it looks cool.
