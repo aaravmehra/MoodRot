@@ -26,6 +26,10 @@ sentences = [
     "ur not HIM lil bro",
     "even caseoh won't try to eat you",
     "yeah you little twink stay on character.ai"
+    "suck suck suck suck suck suck suck"`
+    "icl u pmo gng"
+    "no one will not even date you as a femboy"
+    "bruzz ur not pulling thr huzz"
 ]
 
 mood_sensitivity = {
